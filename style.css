@@ -1,0 +1,28 @@
+h1{
+    font-size: 50px;
+    text-justify: auto;
+}
+.name-highlight{
+    color: cornflowerblue;
+}
+.nav-item{
+    columns: 2;
+    color: black;
+    margin-top: ;
+}
+.btn{
+    width: 200px;
+    height: 75px;
+}
+.btn{
+    text-align: right;
+}
+.card-title-name{
+    color: cornflowerblue
+}
+.dollar-color{
+    color:cornflowerblue
+}
+.last-footer{
+    text-align: center;
+}
